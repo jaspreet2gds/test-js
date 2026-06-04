@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/test-js2/:/",
-    "/content/test-js2/configuration:/.helix/config.json",
-    "/content/test-js2/headers:/.helix/headers.json",
-    "/content/test-js2/metadata:/metadata.json",
-    "/content/test-js2/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/test-js/:/",
+    "/content/test-js/configuration:/.helix/config.json",
+    "/content/test-js/headers:/.helix/headers.json",
+    "/content/test-js/metadata:/metadata.json",
+    "/content/test-js/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/test-js2/"
+    "/content/test-js/"
   ]
 }
