@@ -1,5 +1,6 @@
 {
   "mappings": [
+    "/category/:slug -> /category.html", 
     "/content/test-js/:/",
     "/content/test-js/configuration:/.helix/config.json",
     "/content/test-js/headers:/.helix/headers.json",
