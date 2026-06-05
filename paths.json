@@ -4,7 +4,7 @@
     "/content/test-js/configuration:/.helix/config.json",
     "/content/test-js/headers:/.helix/headers.json",
     "/content/test-js/metadata:/metadata.json",
-    "/content/test-js/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/test-js.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
     "/content/test-js/"
